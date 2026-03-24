@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LS.MathQuiz.UI/LS.MathQuiz.UI.vcxproj" />
+  <Project Path="LS.MathQuiz.UI/LS.MathQuiz.UI.vcxproj" Id="56f75975-0c16-4216-be4b-fe8f5d9053a5" />
 </Solution>
